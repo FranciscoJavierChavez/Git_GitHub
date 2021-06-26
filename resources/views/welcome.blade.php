@@ -45,7 +45,7 @@
                     </svg>
                 </div>
                 <div>
-                    <h1 style="color:blue">Curso Git y GitHub</h1>
+                    <h1 style="color:blue">GitHub vs GitLab</h1>
                     
                 </div>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
