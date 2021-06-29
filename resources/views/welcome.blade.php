@@ -47,6 +47,7 @@
                 <div>
                     <h1 style="color:blue">GitHub vs GitLab</h1>
                     <h4>primer commit desde local</h4>
+                    <h4>Commit hecho desde GitHub</h4>
                 </div>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
